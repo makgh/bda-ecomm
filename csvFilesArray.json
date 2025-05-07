@@ -4,10 +4,6 @@
 		"file_name":"olist_customers_dataset.csv"
 	},
 	{
-		"csv_relative_url": "bda-ecomm/refs/heads/main/Data/olist_order_payments_dataset.csv",
-		"file_name":"olist_order_payments_dataset.csv"
-	},
-	{
 		"csv_relative_url": "bda-ecomm/refs/heads/main/Data/olist_order_items_dataset.csv",
 		"file_name":"olist_order_items_dataset.csv"
 	},
